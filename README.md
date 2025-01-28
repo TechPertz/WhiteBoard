@@ -110,3 +110,6 @@ The whiteboard interface will load, allowing you to log in and start collaborati
 ## Conclusion
 
 The Collaborative Whiteboard Application successfully integrates frontend and backend technologies to deliver a real-time, interactive platform for users. Key strategies such as WebSocket communication, concurrency control, and optimized data management address significant challenges like high data transmission and performance bottlenecks. By leveraging Java Swing for GUI development, Spring Boot for backend services, and efficient concurrency mechanisms, the application ensures a seamless and responsive collaborative drawing experience.
+
+Teammate:
+Allen Abraham aa10770@nyu.edu
